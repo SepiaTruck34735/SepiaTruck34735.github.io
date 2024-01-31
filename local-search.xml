@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>Minecraft-Sep的竞赛笔记书</title>
+    <link href="/2024/01/31/Minecraft-Sep%E7%9A%84%E7%AB%9E%E8%B5%9B%E7%AC%94%E8%AE%B0%E4%B9%A6/"/>
+    <url>/2024/01/31/Minecraft-Sep%E7%9A%84%E7%AB%9E%E8%B5%9B%E7%AC%94%E8%AE%B0%E4%B9%A6/</url>
+    
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>本作品的内容借鉴了<a href="https://www.luogu.com.cn/team/12013">中山市华辰实验中学</a>的信息学竞赛学案，同时感谢初一信竞队的<a href="https://www.luogu.com.cn/user/200518">谢老师</a>以及同学们给了我极大的帮助！</p><p>编写：<a href="https://www.luogu.com.cn/user/942118">Minecraft-Sep</a></p><p>图床代理：<a href="https://img.zshfoj.com/">img.zshfoj.com</a></p><p>老师：<a href="https://www.luogu.com.cn/user/200518">Mr.谢</a></p><p>如果有不足之处，敬请多加指正！谢谢！</p><h1 id="1-文件与结构体"><a href="#1-文件与结构体" class="headerlink" title="1.文件与结构体"></a>1.文件与结构体</h1><p><img src="https://img.zshfoj.com/7707e0a2e501c9bf80df368f62f66684f717e968048dda5e2e35041426ef25e5.png"></p><h1 id="2-队列"><a href="#2-队列" class="headerlink" title="2.队列"></a>2.队列</h1><p><img src="https://img.zshfoj.com/58820bdf86fe54db6ac3ec446f6b678c27e7d67e0cd76063f72a4ea733886a75.png"></p><p><img src="https://img.zshfoj.com/1e64e490e059d2dc538d9c5fa393029b90a15cdcff99eeafbab2aa35275834d1.png"></p><h1 id="4-栈"><a href="#4-栈" class="headerlink" title="4.栈"></a>4.栈</h1><p><img src="https://img.zshfoj.com/a759f1cf90390a3924c3d3584894eab6ce48781aa68e6aec2d8410822deeacfd.png"></p><h1 id="5-树与二叉树"><a href="#5-树与二叉树" class="headerlink" title="5.树与二叉树"></a>5.树与二叉树</h1><p><img src="https://img.zshfoj.com/e2353afcd18590147754377060696e22d5b447af12c500b6f89b444c7f9d8bb6.png"></p><p><img src="https://img.zshfoj.com/e6fa7d0b66a7883fce3c275f9b28a2d3b224e20743b15e0fb2c23375bbb433e8.png"></p><h1 id="6-算法（基础）"><a href="#6-算法（基础）" class="headerlink" title="6.算法（基础）"></a>6.算法（基础）</h1><p><img src="https://img.zshfoj.com/6b2100489d84c69aec228d4b2167a70b70c6b54ca3789c50a6b26afdfb5960ca.png"></p><p><img src="https://img.zshfoj.com/5f483ff11e35ed5b6305cb5bba2fe2ad3dafef1936b6c31f957b9d8b35accb5c.png"></p><p><img src="https://img.zshfoj.com/147acaaa3b5de438ce551a23c6065bb187b2b829e7434a418483a6d26df8bfbf.png"></p><p><img src="https://img.zshfoj.com/ef192208e5fa823da4ee6fa04df890a868e4d00b838c4e44d9a55002024cf3f2.png"></p><p><img src="https://img.zshfoj.com/a8fb9cd64e58d35ea5459ce3b7d7681e2e435fc3629543b3368a9af64f46b8a3.png"></p><h1 id="7-贪心、分治、DFS"><a href="#7-贪心、分治、DFS" class="headerlink" title="7.贪心、分治、DFS"></a>7.贪心、分治、DFS</h1><p><img src="https://img.zshfoj.com/a4cc429450baa6d64f25fbb034203fa0f5e417aca78f28a08c44f97f27935655.png"></p><p><img src="https://img.zshfoj.com/1bf4d006e19963a7436fbf9c6a2a9a44c046fa135a1e3bc477641889a334867d.png"></p><p><img src="https://img.zshfoj.com/3bffeb8ea33de6342ec4f7488dfa91dadbf7a19960905303963633ca673cc524.png"></p><p><img src="https://img.zshfoj.com/72f6d60a8cf77c3e4bebe5e5a207e2a67882692bcf5a62735c5485b4b833fcd2.png"></p><h1 id="8-递归与递推"><a href="#8-递归与递推" class="headerlink" title="8.递归与递推"></a>8.递归与递推</h1><p><img src="https://img.zshfoj.com/984a1e35f8cec62ed4515cac4c18339287c0319889a3b329b76119cc94426998.png"></p><p><img src="https://img.zshfoj.com/e3788583d403db574783a889a50a38d52e0c736a97c71192cd6b4e53d5612f7b.png"></p><h1 id="9-BFS"><a href="#9-BFS" class="headerlink" title="9.BFS"></a>9.BFS</h1><p><img src="https://img.zshfoj.com/45ed44773337856930c2bb06f9254cc58227d386e567b6c3c1fa9190ac0b4925.png"></p><p><img src="https://img.zshfoj.com/c153965a49b0eaf5feb77deaa030670be87876ab9d8630044241ea2f88d67961.png"></p><p><img src="https://img.zshfoj.com/75781dd2d170243ab0c67a16b7afcd96cad49d3ca8272e219b31dd226a043261.png"></p><p><img src="https://img.zshfoj.com/376dc19c6f7302d10060fde3285dc16a85a0f674b75eab7e405e47f80d953011.png"></p><p><img src="https://img.zshfoj.com/566c19308b208c54b575b5f35a4981777e0bf6b8526171ec98cad82502a78b6b.png"></p><p><img src="https://img.zshfoj.com/7e1b66de2f16cd0914b7b022f2e6e3840ea0d7698cb9a4a3fee0df1be3849de6.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>编程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>C++</tag>
+      
+      <tag>信息竞赛</tag>
+      
+      <tag>2024</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>C++七大经典排序算法详解</title>
     <link href="/2024/01/30/C-%E4%B8%83%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/"/>
     <url>/2024/01/30/C-%E4%B8%83%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/</url>
