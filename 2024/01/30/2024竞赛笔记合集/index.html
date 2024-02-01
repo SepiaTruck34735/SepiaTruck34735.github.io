@@ -81,7 +81,7 @@
 <meta property="og:image" content="https://img.zshfoj.com/1adbfa5f2e2c60630b5505a7c6c27db57a53449ec7bef6ccf70c8c32c4ee0a3b.png">
 <meta property="og:image" content="https://img.zshfoj.com/67d1b5216431d4e7e2ed82e4635e822bf6faedc6f068477c7f18112117710105.png">
 <meta property="article:published_time" content="2024-01-30T11:26:03.000Z">
-<meta property="article:modified_time" content="2024-02-01T02:34:00.660Z">
+<meta property="article:modified_time" content="2024-02-01T04:16:58.653Z">
 <meta property="article:author" content="Minecraft-Sep &amp; Minecraft-Nul.All rights reversed.">
 <meta property="article:tag" content="C++">
 <meta property="article:tag" content="信息竞赛">
@@ -399,7 +399,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：15 分钟前
+                    本文最后更新于：20 分钟前
                   
                 
               </p>
@@ -632,11 +632,19 @@
   
     <article id="comments" lazyload>
       
-  <div id="SOHUCS" sid='https://sepiatruck34735.github.io/2024/01/30/2024%E7%AB%9E%E8%B5%9B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/'></div>
+  <div id="gitalk-container"></div>
   <script type="text/javascript">
-    Fluid.utils.loadComments('#SOHUCS', function() {
-      Fluid.utils.createScript("https://changyan.sohu.com/upload/changyan.js", function() {
-        window.changyan.api.config({"appid":"cyx7JEyTg","appkey":"417cb92959d644d7b67d39860aa2c98a"})
+    Fluid.utils.loadComments('#gitalk-container', function() {
+      Fluid.utils.createCssLink('/css/gitalk.css')
+      Fluid.utils.createScript('https://lib.baomitu.com/gitalk/1.8.0/gitalk.min.js', function() {
+        var options = Object.assign(
+          {"clientID":"868ca09a87800826ae8e","clientSecret":"3dbf886268af8b3d90227714366352a55b7622ac","repo":"talking","owner":"130839227","admin":["Minecraft-Sep"],"language":"zh-CN","labels":["Gitalk"],"perPage":10,"pagerDirection":"last","distractionFreeMode":false,"createIssueManually":true,"proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token"},
+          {
+            id: '633e46147b3aee8e7af3830777496b0b'
+          }
+        )
+        var gitalk = new Gitalk(options);
+        gitalk.render('gitalk-container');
       });
     });
   </script>
