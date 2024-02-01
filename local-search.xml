@@ -144,4 +144,15 @@
   
   
   
+  <entry>
+    <title>聊天室</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body">欢迎来到聊天室！该功能正在测试，咱不能发表评论。</div>]]></content>
+    
+  </entry>
+  
+  
+  
 </search>
